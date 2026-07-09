@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gyuyeon-kim-headshot-circle.png" width="180" alt="Headshot of Gyuyeon Kim">
+  <img src="assets/gyuyeon-kim-avatar.png" width="120" alt="Headshot of Gyuyeon Kim">
 </p>
 
 <h1 align="center">Gyuyeon Kim</h1>
