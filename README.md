@@ -15,7 +15,7 @@
   <a href="files/Gyuyeon_Kim_CV.pdf">CV</a>
 </p>
 
-## Top-tier Conference Papers
+## Publications
 
 - **AcousTag: Batteryless 3D-Printed Acoustic Tag for Smart Speaker-based Event Monitoring**  
   **Gyuyeon Kim**, Sehoon Lim, Jaewoo Son, Soundarya Ramesh, and Jun Han. IMWUT'26.
@@ -30,7 +30,7 @@
   **Gyuyeon Kim**<sup>*</sup>, Jonghyuk Yun<sup>*</sup>, Soundarya Ramesh, and Jun Han. HotMobile'23.  
   <sup>*</sup> Equal contribution.
 
-## Posters and Demos
+## Posters
 
 - **Towards Acoustic-Based Tagless Object Tracking with Smartwatches**  
   **Gyuyeon Kim**, Hyunwoo Kim, and Jun Han. MobiSys'24.
@@ -49,11 +49,6 @@
 
 - **B.S., Electrical and Electronic Engineering**, Yonsei University, 2017 - 2023  
   GPA: 4.02 / 4.3
-
-## Research Experience
-
-- Research Assistant, Cyber-Physical Systems and Security Lab, KAIST, 2024 - 2025
-- Research Intern, Cyber-Physical Systems and Security Lab, Yonsei University, 2022 - 2023
 
 ## Selected Honors
 
