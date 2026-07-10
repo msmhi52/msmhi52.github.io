@@ -52,7 +52,5 @@
 
 ## Selected Honors
 
-- Student Travel Grant, ACM MobiSys 2024
 - Best Poster Award, ACM HotMobile 2023
-- Student Travel Grant, ACM SenSys 2023
 - Presidential Science Scholarship, KOSAF, 2017 - 2023
