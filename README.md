@@ -6,7 +6,7 @@
 
 <p align="center">
   Ph.D. student, School of Computing, KAIST<br>
-  Mobile and sensing systems / Physics-based AI / Cyber-physical perception
+  Mobile and sensing systems / Physics-based AI / Acoustic, wearable, and cyber-physical perception
 </p>
 
 <p align="center">
@@ -14,17 +14,6 @@
   <a href="https://linkedin.com/in/gyuyeon-kim">LinkedIn</a> /
   <a href="files/Gyuyeon_Kim_CV.pdf">CV</a>
 </p>
-
-## Research
-
-I am a Ph.D. student in the School of Computing at KAIST, advised by Prof. Jun Han. My research develops mobile and sensing systems that combine physical signal models with machine learning for perception and inference in real-world environments.
-
-Research interests:
-
-- Mobile and ubiquitous sensing systems
-- Physics-informed machine learning for perception
-- Acoustic sensing with smartphones, smart speakers, and wearables
-- Cyber-physical systems and real-world deployment
 
 ## Selected Publications
 
@@ -38,7 +27,8 @@ Research interests:
   Bangjie Sun, Kanav Sabharwal, **Gyuyeon Kim**, Mun Choon Chan, and Jun Han. SenSys, 2023.
 
 - **RampScope: Ramp-Level Localization of Shared Mobility Devices Using Sidewalk Ramps**  
-  **Gyuyeon Kim**, Jonghyuk Yun, Soundarya Ramesh, and Jun Han. HotMobile, 2023.
+  **Gyuyeon Kim**<sup>*</sup>, Jonghyuk Yun<sup>*</sup>, Soundarya Ramesh, and Jun Han. HotMobile, 2023.  
+  <sup>*</sup> Equal contribution.
 
 ## Posters And Demos
 
@@ -46,7 +36,7 @@ Research interests:
   Gyuyeon Kim, Hyunwoo Kim, and Jun Han. MobiSys, 2024.
 
 - **RampScope: Ramp-Level Localization of Shared Mobility Devices Using Sidewalk Ramps**  
-  Gyuyeon Kim, Jonghyuk Yun, Soundarya Ramesh, and Jun Han. HotMobile, 2023.
+  Gyuyeon Kim and Jonghyuk Yun contributed equally. HotMobile, 2023.
 
 ## Education
 

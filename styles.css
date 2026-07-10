@@ -170,7 +170,6 @@ p {
   max-width: 900px;
 }
 
-.interest-list,
 .compact-list {
   display: grid;
   gap: 10px;
@@ -180,7 +179,6 @@ p {
   line-height: 1.68;
 }
 
-.interest-list li::marker,
 .compact-list li::marker {
   color: var(--accent);
 }
@@ -206,6 +204,11 @@ p {
 
 .publication p {
   margin-bottom: 0;
+}
+
+.contribution-note {
+  margin-top: 6px;
+  font-size: 0.9rem;
 }
 
 .venue {
