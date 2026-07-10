@@ -11,7 +11,8 @@
 
 <p align="center">
   <a href="mailto:gyuyeonkim@kaist.ac.kr">Email</a> /
-  <a href="https://linkedin.com/in/gyuyeon-kim">LinkedIn</a>
+  <a href="https://linkedin.com/in/gyuyeon-kim">LinkedIn</a> /
+  <a href="files/Gyuyeon_Kim_CV.pdf">CV</a>
 </p>
 
 ## Research
