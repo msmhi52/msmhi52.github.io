@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gyuyeonkim@kaist.ac.kr">Email</a> /
+  Email: gyuyeonkim [at] kaist [dot] ac [dot] kr /
   <a href="https://linkedin.com/in/gyuyeon-kim">LinkedIn</a> /
   <a href="files/Gyuyeon_Kim_CV.pdf">CV</a>
 </p>

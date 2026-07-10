@@ -162,7 +162,8 @@ p {
   font-weight: 750;
 }
 
-.contact-links a {
+.contact-links a,
+.email-obfuscated {
   color: var(--accent-dark);
 }
 
