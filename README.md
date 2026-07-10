@@ -15,28 +15,29 @@
   <a href="files/Gyuyeon_Kim_CV.pdf">CV</a>
 </p>
 
-## Selected Publications
+## Top-tier Conference Papers
 
 - **AcousTag: Batteryless 3D-Printed Acoustic Tag for Smart Speaker-based Event Monitoring**  
-  **Gyuyeon Kim**, Sehoon Lim, Jaewoo Son, Soundarya Ramesh, and Jun Han. IMWUT, 2026.
+  **Gyuyeon Kim**, Sehoon Lim, Jaewoo Son, Soundarya Ramesh, and Jun Han. IMWUT'26.
 
 - **AutoScale: Vision-Based Overweight Truck Detection Utilizing A Following Autonomous Vehicle**  
-  **Gyuyeon Kim**, Jaewoo Son, Sungmin Park, and Jun Han. IROS, 2026.
+  **Gyuyeon Kim**, Jaewoo Son, Sungmin Park, and Jun Han. IROS'26.
 
 - **Testing Masks and Air Filters with Your Smartphones**  
-  Bangjie Sun, Kanav Sabharwal, **Gyuyeon Kim**, Mun Choon Chan, and Jun Han. SenSys, 2023.
+  Bangjie Sun, Kanav Sabharwal, **Gyuyeon Kim**, Mun Choon Chan, and Jun Han. SenSys'23.
 
 - **RampScope: Ramp-Level Localization of Shared Mobility Devices Using Sidewalk Ramps**  
-  **Gyuyeon Kim**<sup>*</sup>, Jonghyuk Yun<sup>*</sup>, Soundarya Ramesh, and Jun Han. HotMobile, 2023.  
+  **Gyuyeon Kim**<sup>*</sup>, Jonghyuk Yun<sup>*</sup>, Soundarya Ramesh, and Jun Han. HotMobile'23.  
   <sup>*</sup> Equal contribution.
 
-## Posters And Demos
+## Posters and Demos
 
 - **Towards Acoustic-Based Tagless Object Tracking with Smartwatches**  
-  Gyuyeon Kim, Hyunwoo Kim, and Jun Han. MobiSys, 2024.
+  **Gyuyeon Kim**, Hyunwoo Kim, and Jun Han. MobiSys'24.
 
 - **RampScope: Ramp-Level Localization of Shared Mobility Devices Using Sidewalk Ramps**  
-  Gyuyeon Kim and Jonghyuk Yun contributed equally. HotMobile, 2023.
+  **Gyuyeon Kim**<sup>*</sup>, Jonghyuk Yun<sup>*</sup>, Soundarya Ramesh, and Jun Han. HotMobile'23.  
+  <sup>*</sup> Equal contribution.
 
 ## Education
 
