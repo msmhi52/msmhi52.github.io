@@ -6,7 +6,7 @@
 
 <p align="center">
   Ph.D. student, School of Computing, KAIST<br>
-  Mobile and sensing systems / Physics-based AI / Acoustic, wearable, and cyber-physical perception
+  Mobile and sensing systems / Physics-based AI
 </p>
 
 <p align="center">
@@ -14,6 +14,8 @@
   <a href="https://linkedin.com/in/gyuyeon-kim">LinkedIn</a> /
   <a href="files/Gyuyeon_Kim_CV.pdf">CV</a>
 </p>
+
+My research focuses on developing novel applications in mobile and sensing systems by leveraging physics-based artificial intelligence to enable new forms of perception and inference that were previously unattainable.
 
 ## Publications
 
@@ -42,13 +44,12 @@
 ## Education
 
 - **Ph.D., School of Computing**, KAIST, 2025 - present  
-  Advisor: Jun Han
+  Korea Advanced Institute of Science and Technology (KAIST). Advisor: Jun Han
 
 - **M.S., Electrical and Electronic Engineering**, Yonsei University, 2023 - 2025  
   Advisor: Jun Han
 
 - **B.S., Electrical and Electronic Engineering**, Yonsei University, 2017 - 2023  
-  GPA: 4.02 / 4.3
 
 ## Selected Honors
 
