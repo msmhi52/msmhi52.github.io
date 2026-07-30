@@ -15,7 +15,7 @@
   <a href="files/Gyuyeon_Kim_CV.pdf">CV</a>
 </p>
 
-My research focuses on developing novel applications in mobile and sensing systems by leveraging physics-based artificial intelligence to enable new forms of perception and inference that were previously unattainable.
+My research interest lies in the intersection of mobile systems, sensing systems, security, and physical artificial intelligence.
 
 ## Publications
 
