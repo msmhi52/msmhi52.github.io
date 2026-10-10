@@ -44,10 +44,9 @@ My research interest lies in the intersection of mobile systems, sensing systems
 ## Education
 
 - **Ph.D., School of Computing**, KAIST, 2025 - present  
-  Korea Advanced Institute of Science and Technology (KAIST). Advisor: Jun Han
+  Korea Advanced Institute of Science and Technology (KAIST)
 
 - **M.S., Electrical and Electronic Engineering**, Yonsei University, 2023 - 2025  
-  Advisor: Jun Han
 
 - **B.S., Electrical and Electronic Engineering**, Yonsei University, 2017 - 2023  
 
